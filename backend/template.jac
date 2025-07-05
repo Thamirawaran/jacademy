@@ -53,3 +53,12 @@ node Summary {
 walker learner {
 
 }
+
+walker runner {
+    has command: str = "run";
+
+}
+
+walker tester {
+    has command: str = "test";
+}

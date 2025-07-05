@@ -194,8 +194,8 @@ copies or substantial portions of the Software.
 
 ## 🙏 Credits
 
-### Created By
-- **Your Name** - *Lead Developer* - [@Thamirawaran](https://github.com/Thamirawaran)
+<!-- ### Created By
+- **Thamirawaran** - *Lead Developer* - [@Thamirawaran](https://github.com/Thamirawaran) -->
 
 ### Inspiration
 - **Sololearn** - For pioneering mobile-first programming education
