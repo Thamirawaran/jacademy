@@ -126,64 +126,6 @@ docker-compose up --build
 # Access at http://localhost:3000
 ```
 
-## 🛠️ Tech Stack
-
-### Frontend
-- **React 18** - Modern UI library with hooks
-- **TypeScript** - Type-safe JavaScript
-- **Tailwind CSS** - Utility-first CSS framework
-- **Monaco Editor** - VS Code-powered code editor
-- **React Query** - Server state management
-- **React Router** - Client-side routing
-
-### Backend
-- **FastAPI** - High-performance Python web framework
-- **PostgreSQL** - Primary database
-- **Redis** - Caching and session storage
-- **Celery** - Asynchronous task processing
-- **JWT Authentication** - Secure user authentication
-- **Pydantic** - Data validation and serialization
-
-### Infrastructure & DevOps
-- **Docker** - Containerization
-- **nginx** - Reverse proxy and static file serving
-- **GitHub Actions** - CI/CD pipeline
-- **AWS/DigitalOcean** - Cloud deployment
-
-### Code Execution
-- **Jaclang Runtime** - Native Jaclang code execution
-- **Python Sandbox** - Secure Python code execution
-- **Docker Containers** - Isolated execution environments
-
-## 📚 Course Structure
-
-### Jaclang Fundamentals
-1. **Introduction to Jaclang**
-   - Language Philosophy
-   - Installation & Setup
-   - First Program
-
-2. **Basic Syntax**
-   - Variables & Data Types
-   - Control Structures
-   - Functions
-
-3. **Advanced Concepts**
-   - Object-Oriented Programming
-   - Error Handling
-   - File I/O
-
-### Python Essentials
-1. **Python Basics**
-   - Syntax & Semantics
-   - Data Structures
-   - Functions & Modules
-
-2. **Intermediate Python**
-   - Classes & Objects
-   - Exception Handling
-   - File Operations
-
 ## 🎮 Gamification
 
 ### Point System
@@ -228,14 +170,7 @@ We welcome contributions from developers of all skill levels! Here's how you can
 - Review and test educational materials
 
 ### Development Guidelines
-- Follow [PEP 8](https://pep8.org/) for Python code
-- Use [Prettier](https://prettier.io/) for JavaScript/TypeScript formatting
-- Write unit tests for new features
-- Update documentation for API changes
-
-## 📷 Screenshots
-
-*Coming soon! We're working on capturing the best shots of our platform.*
+- Follow [Jaclang Documentation](https://www.jac-lang.org/) for Jac code
 
 ## 📄 License
 
@@ -260,7 +195,7 @@ copies or substantial portions of the Software.
 ## 🙏 Credits
 
 ### Created By
-- **Your Name** - *Lead Developer* - [@yourusername](https://github.com/yourusername)
+- **Your Name** - *Lead Developer* - [@Thamirawaran](https://github.com/Thamirawaran)
 
 ### Inspiration
 - **Sololearn** - For pioneering mobile-first programming education
@@ -276,13 +211,13 @@ copies or substantial portions of the Software.
 - Built with ❤️ using modern web technologies
 - Powered by the amazing open-source community
 
-## 📧 Contact
+<!-- ## 📧 Contact
 
 - **Project Website**: [https://jacademy.dev](https://jacademy.dev)
 - **Documentation**: [https://docs.jacademy.dev](https://docs.jacademy.dev)
 - **Issues & Support**: [GitHub Issues](https://github.com/yourusername/jacademy/issues)
 - **Community Discord**: [Join our Discord](https://discord.gg/jacademy)
-- **Email**: contact@jacademy.dev
+- **Email**: contact@jacademy.dev -->
 
 ---
 
