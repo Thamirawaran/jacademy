@@ -70,11 +70,11 @@ Course (e.g., "Jaclang Fundamentals")
 
 ## 🚀 Quick Start
 
-### Prerequisites
+<!-- ### Prerequisites
 - **Python 3.8+**
 - **Node.js 16+**
 - **Git**
-- **Docker** (optional, for containerized deployment)
+- **Docker** (optional, for containerized deployment) -->
 
 ### 1. Clone the Repository
 ```bash
@@ -117,14 +117,14 @@ npm start
 - **Frontend**: http://localhost:3000
 - **Backend API**: http://localhost:8000
 - **Admin Panel**: http://localhost:8000/admin
-
+<!-- 
 ### Docker Quick Start (Alternative)
 ```bash
 # Build and run with Docker Compose
 docker-compose up --build
 
 # Access at http://localhost:3000
-```
+``` -->
 
 ## 🎮 Gamification
 
