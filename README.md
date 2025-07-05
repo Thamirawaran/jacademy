@@ -7,7 +7,7 @@
 [![Contributors](https://img.shields.io/badge/contributors-welcome-orange.svg)](CONTRIBUTING.md)
 
 > An open-source interactive learning platform inspired by Sololearn, designed to teach programming languages starting with **Jaclang** and **Jaseci Stack** through gamified lessons, real-time coding challenges, and community-driven content.
-
+<!-- 
 ## 📖 Table of Contents
 
 - [✨ Features](#-features)
@@ -20,7 +20,7 @@
 - [📷 Screenshots](#-screenshots)
 - [📄 License](#-license)
 - [🙏 Credits](#-credits)
-- [📧 Contact](#-contact)
+- [📧 Contact](#-contact) -->
 
 ## ✨ Features
 
