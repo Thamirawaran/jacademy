@@ -1,3 +1,5 @@
+import subprocess;
+
 node Course {
     has title: str;
     # has description: str;
@@ -37,13 +39,29 @@ node Lesson {
 
 node Activity {
     has title: str;
-    has instructions: str;
-    has question: str;
-    has solution: str;
-    has explanation: str;
+    has code_path: str;
+    # has instructions: str;
+    # has question: str;
+    # has solution: str;
+    # has explanation: str;
+
+    can execute with learner entry {
+        root spawn runner(self.code_path);
+    }
 }
 
-node Quiz(Activity) { }
+node Quiz {
+    has title: str;
+    has code_path: str;
+    # has instructions: str;
+    # has question: str;
+    # has solution: str;
+    # has explanation: str;
+
+    can execute with learner entry {
+        root spawn tester(self.code_path);
+    }
+ }
 
 node Summary {
     has title: str;
@@ -55,10 +73,22 @@ walker learner {
 }
 
 walker runner {
-    has command: str = "run";
+    has code_path: str;
+
+    can execute with `root entry {
+        subprocess.run(["jac","run",self.code_path]);
+    }
 
 }
 
 walker tester {
-    has command: str = "test";
+    has code_path: str;
+
+    can execute with `root entry {
+        subprocess.run(["jac","test",self.code_path]);
+    }
 }
+
+# with entry {
+#     [root-->] spawn learner();
+# }
