@@ -1,6 +1,6 @@
 # 🎓 Jaclang Learn
 ### Interactive Programming Learning Platform
-
+<!-- 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/jacademy)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequests.com)
@@ -22,7 +22,7 @@
 - [🙏 Credits](#-credits)
 - [📧 Contact](#-contact) -->
 
-## ✨ Features
+<!-- ## ✨ Features
 
 ### 🎯 Core Learning Features
 - **Interactive Code Playground** - Write, run, and test Jaclang and Python code in real-time
@@ -46,7 +46,7 @@
 - **Modular Architecture** - Easy to extend with new courses and languages
 - **Template System** - Standardized content creation templates
 - **Admin Dashboard** - Manage courses, users, and content
-- **API-First Design** - RESTful APIs for all platform functionality
+- **API-First Design** - RESTful APIs for all platform functionality  -->
 
 ## 🏗️ Architecture
 
@@ -76,7 +76,7 @@ Course (e.g., "Jaclang Fundamentals")
 - **Git**
 - **Docker** (optional, for containerized deployment) -->
 
-### 1. Clone the Repository
+<!-- ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Thamirawaran/jacademy.git
 cd jacademy
@@ -116,7 +116,7 @@ npm start
 ### 4. Access the Application
 - **Frontend**: http://localhost:3000
 - **Backend API**: http://localhost:8000
-- **Admin Panel**: http://localhost:8000/admin
+- **Admin Panel**: http://localhost:8000/admin -->
 <!-- 
 ### Docker Quick Start (Alternative)
 ```bash
@@ -126,8 +126,8 @@ docker-compose up --build
 # Access at http://localhost:3000
 ``` -->
 
-## 🎮 Gamification
-
+<!-- ## 🎮 Gamification -->
+<!-- 
 ### Point System
 - **Lesson Completion**: 10 XP
 - **Quiz Perfect Score**: 25 XP
@@ -190,9 +190,9 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-```
+``` -->
 
-## 🙏 Credits
+<!-- ## 🙏 Credits -->
 
 <!-- ### Created By
 - **Thamirawaran** - *Lead Developer* - [@Thamirawaran](https://github.com/Thamirawaran) -->
@@ -202,14 +202,14 @@ copies or substantial portions of the Software.
 - **FreeCodeCamp** - For open-source educational excellence
 - **Codecademy** - For interactive learning methodology
 
-### Special Thanks
+<!-- ### Special Thanks
 - Jaclang Community for language support
 - Open Source Contributors
 - Beta testers and early adopters
 
 ### Technologies
 - Built with ❤️ using modern web technologies
-- Powered by the amazing open-source community
+- Powered by the amazing open-source community -->
 
 <!-- ## 📧 Contact
 
@@ -221,10 +221,10 @@ copies or substantial portions of the Software.
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 **[⬆ Back to Top](#-jaclang-learn)**
 
 Made with 💻 and ☕ by the Jaclang Learn team
 
-</div>
+</div> -->
