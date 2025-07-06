@@ -88,7 +88,3 @@ walker tester {
         subprocess.run(["jac","test",self.code_path]);
     }
 }
-
-# with entry {
-#     [root-->] spawn learner();
-# }
